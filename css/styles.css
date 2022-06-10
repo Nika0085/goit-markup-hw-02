@@ -225,7 +225,7 @@ color: var(--main-color);
   margin-left: 30px;
 }
 
-.team {
+.team-section{
   background-color: #f5f4fa;
 }
 
@@ -234,11 +234,13 @@ color: var(--main-color);
   max-width: 211px;
   font-size: 36px;
   line-height: 1.16;
+  
 }
 
 .team-description {
   font-size: 16px;
   line-height: 1.19;
+ 
 }
 
 .team-banner,
